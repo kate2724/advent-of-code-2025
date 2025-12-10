@@ -31,13 +31,3 @@ invalidIDSum(ranges)
 
 # ranges = ["11-22"]
 # invalidIDSum(ranges)
-
-# Find any length of repeating numbers inside a number
-# for loop on range, check if there are any repeating numbers
-# if so, add to sum
-
-
-# ranges = list of ranges
-# for i in ranges: 
-    # for i in range(firstNum, secondNum):
-        # check if there are any repeating numbers
